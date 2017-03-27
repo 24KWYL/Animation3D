@@ -17,7 +17,6 @@ import android.widget.TextView;
 import com.example.androidtest.R;
 
 public class MainActivity extends Activity {
-	
 	private RelativeLayout mContentRl;
 	private TextView mLogoIv;
 	private TextView mDescTv;
