@@ -136,11 +136,11 @@ public class MainActivity extends Activity {
 						//向上滑动
 						Log.i("move","top");
 					}
-					if (mCurPosX-mPosX>25 && Math.abs(mCurPosY-mPosY)<25) {
+					if (mCurPosX-mPosX>25) {
 						mContentRl.startAnimation(openAnimation);
 						//向右滑动
 						Log.i("move","right");
-					} else if(mCurPosX-mPosX<-25 && Math.abs(mCurPosY-mPosY)<25){
+					} else if(mCurPosX-mPosX<-25){
 						mContentRl.startAnimation(closeAnimation);
 					  	//向左滑动
 						Log.i("move","left");
