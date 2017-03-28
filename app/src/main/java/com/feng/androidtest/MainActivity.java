@@ -124,7 +124,6 @@ public class MainActivity extends Activity {
 				case MotionEvent.ACTION_MOVE:
 					mCurPosX = event.getX();
 					mCurPosY = event.getY();
-
 					break;
 				case MotionEvent.ACTION_UP:
 					if (mCurPosY - mPosY > 0
