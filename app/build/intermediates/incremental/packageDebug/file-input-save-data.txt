@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 28 12:00:27 CST 2017
+#Tue Mar 28 16:08:20 CST 2017
 2.base=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_
 5.file=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_/resources.arsc
 5.set=ANDROID_RESOURCE
@@ -20,11 +20,11 @@ count=10
 9.file=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/photo_cheetah.jpg
 1.set=ANDROID_RESOURCE
 7.base=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-2.file=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_qrcode.jpg
+2.file=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
 6.set=ANDROID_RESOURCE
 0.base=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_
 8.base=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_
-3.file=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+3.file=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_qrcode.jpg
 3.set=ANDROID_RESOURCE
 1.base=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_
 9.base=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/resources-debug.ap_
