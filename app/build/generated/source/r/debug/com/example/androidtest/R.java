@@ -19,10 +19,9 @@ public final class R {
         public static final int photo_cheetah=0x7f020005;
     }
     public static final class id {
-        public static final int btn_open=0x7f060000;
-        public static final int iv_logo=0x7f060002;
-        public static final int rl_content=0x7f060001;
-        public static final int tv_desc=0x7f060003;
+        public static final int fade=0x7f060001;
+        public static final int reverse=0x7f060002;
+        public static final int rl_content=0x7f060000;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/android/Desktop/Animation3D/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/android/Desktop/Animation3D/app/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/android/Desktop/demo/weight/Animation3D/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/android/Desktop/demo/weight/Animation3D/app/src/debug/shaders"/></dataSet></merger>

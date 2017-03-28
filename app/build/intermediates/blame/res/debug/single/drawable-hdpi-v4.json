@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/Users/android/Desktop/Animation3D/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_qrcode.jpg",
-        "source": "/Users/android/Desktop/Animation3D/app/src/main/res/drawable-hdpi/ic_qrcode.jpg"
+        "merged": "/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/photo_cheetah.jpg",
+        "source": "/Users/android/Desktop/demo/weight/Animation3D/app/src/main/res/drawable-hdpi/photo_cheetah.jpg"
     },
     {
-        "merged": "/Users/android/Desktop/Animation3D/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/photo_cheetah.jpg",
-        "source": "/Users/android/Desktop/Animation3D/app/src/main/res/drawable-hdpi/photo_cheetah.jpg"
-    },
-    {
-        "merged": "/Users/android/Desktop/AndroidTest1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_qrcode.jpg",
-        "source": "/Users/android/Desktop/AndroidTest1/app/src/main/res/drawable-hdpi/ic_qrcode.jpg"
-    },
-    {
-        "merged": "/Users/android/Desktop/AndroidTest1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/photo_cheetah.jpg",
-        "source": "/Users/android/Desktop/AndroidTest1/app/src/main/res/drawable-hdpi/photo_cheetah.jpg"
+        "merged": "/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_qrcode.jpg",
+        "source": "/Users/android/Desktop/demo/weight/Animation3D/app/src/main/res/drawable-hdpi/ic_qrcode.jpg"
     }
 ]

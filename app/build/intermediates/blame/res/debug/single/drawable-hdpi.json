@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/android/Desktop/AndroidTest1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/Users/android/Desktop/AndroidTest1/app/src/main/res/drawable-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/android/Desktop/Animation3D/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/Users/android/Desktop/Animation3D/app/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/android/Desktop/demo/weight/Animation3D/app/src/main/res/drawable-hdpi/ic_launcher.png"
     }
 ]
