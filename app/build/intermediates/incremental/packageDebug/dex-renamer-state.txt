@@ -1,4 +1,4 @@
-#Tue Mar 28 16:08:20 CST 2017
+#Wed Mar 29 10:50:11 CST 2017
 base.0=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/android/Desktop/demo/weight/Animation3D/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.androidtest.test">
+    package="com.wyl.animation3d.test">
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="19" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.example.androidtest"
+                     android:targetPackage="com.wyl.animation3d"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.example.androidtest"/>
+                     android:label="Tests for com.wyl.animation3d"/>
 </manifest>
